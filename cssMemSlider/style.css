@@ -29,10 +29,11 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #30363D;
+    background-color: #feaffe;
     font-family: 'Roboto', sans-serif;
 }
 h1{
+    margin: auto;
     color: white;
 }
 .slider{
